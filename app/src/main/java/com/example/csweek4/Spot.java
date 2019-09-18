@@ -14,7 +14,7 @@ public class Spot {
 
     public Spot(int cX, int cY)
     {
-        radius=25;
+        radius=30;
         this.centerX=cX;
         this.centerY=cY;
         Random rand=new Random();
